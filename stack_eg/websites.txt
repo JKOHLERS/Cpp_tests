@@ -1,0 +1,12 @@
+Momondo www.momondo.ca
+Kayak www.kayak.com
+Expedia www.expedia.com
+Priceline www.priceline.com
+Orbitz www.orbitz.com
+Agoda www.agoda.com
+Hotwire www.hotwire.com
+Skyscanner www.skyscanner.ca
+Travelocity www.travelocity.com
+Google_Flights https://www.google.com/travel/flights
+CheapOair www.cheapoair.com
+Hopper www.hopper.com
